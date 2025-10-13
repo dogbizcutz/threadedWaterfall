@@ -1,7 +1,7 @@
 # A class project of a clothing store, as an example of the Waterfall methodology
 
 Created by
-Raven Lennon Kirkham - Project Leader / Backend
-Andrew Sam More - Frontend
-Kian Connor Watt - UI/UX Design
-Dominic J Walsh - Testing
+<li><a href="https://github.com/dogbizcutz">Raven Kirkham</a> (Project Leader / Backend Developer)</li>
+<li><a href="https://github.com/AndrewMore5">Andrew More</a> (Frontend Developer)</li>
+<li><a href="https://github.com/EvilMrDuck">Kian Watt</a> (UI/UX Designer)</li>
+<li><a href="https://github.com/Dominic-J-Walsh">Dominic Walsh</a> (Testing)</li>
