@@ -1,0 +1,16 @@
+@font-face {
+    font-family: ThreadedFont;
+    src:url(Fonts/BBHSansHegarty-Regular.ttf)
+}
+
+h1{
+    align-items: center;
+    font-family: ThreadedFont;
+}
+label{
+    align-items: center;
+    font-family: ThreadedFont;
+}
+.p1{
+    font-family: ThreadedFont;
+}
