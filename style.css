@@ -3,14 +3,10 @@
     src:url(Fonts/BBHSansHegarty-Regular.ttf)
 }
 
-h1{
+label, h1, h2{
     align-items: center;
     font-family: ThreadedFont;
 }
-label{
-    align-items: center;
-    font-family: ThreadedFont;
-}
-.p1{
-    font-family: ThreadedFont;
-}
+header { width: 100%; padding: 20px 0; }
+header .content { width: 1000px; margin: auto; }
+header .content p { font-size: 22px; color: #000; }
