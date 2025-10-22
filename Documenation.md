@@ -32,7 +32,7 @@ This open source code was created to imitate a shopping website and to undestand
     ├──collection.html
     ├──contact.html
     ├──Documentation.md
-    ├─indxe.html
+    ├──index.html
     ├──README.md
     ├──style.css
     |
@@ -42,4 +42,5 @@ This open source code was created to imitate a shopping website and to undestand
     ├──Images/
     │   ├──icon.png
     │   ├──logo.png
+    │   ├──Search_Icon.png
 ```
