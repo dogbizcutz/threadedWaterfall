@@ -3,8 +3,7 @@
     src:url(Fonts/BBHSansHegarty-Regular.ttf)
 }
 
-label, h1, h2{
-    align-items: center;
+label, h1, span{
     font-family: ThreadedFont;
 }
 
@@ -28,3 +27,12 @@ label, h1, h2{
   gap: .6rem;                  /* space between icon and text */
 }
 
+body {
+  min-height: 100vh;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+}
+
+header, footer, label {
+  min-height: 50px;
+}

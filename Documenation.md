@@ -2,7 +2,7 @@
 This open source code was created to imitate a shopping website and to undestand using html, css and javascript
 
 ## Requirements:
-    Any web browser, A desktop computer
+    Any web browser and a device that can run html files
 
 ### Usage:
     Run any html file (Home page is index.html)
@@ -18,9 +18,9 @@ This open source code was created to imitate a shopping website and to undestand
         All of contact.html, Documenation.md and README.md
         Low Fidelity Wireframes
         style.css
-    Kian Watt - UI/UX Designer
-        Colours Used
         Header
+    Kian Watt - UI/UX Designer
+        Colours
     Dominic Walsh - Testing
         High Fidelity Wireframes
 
@@ -42,5 +42,8 @@ This open source code was created to imitate a shopping website and to undestand
     ├──Images/
     │   ├──icon.png
     │   ├──logo.png
-    │   ├──Search_Icon.png
+    │   ├──search_icon.png
+    │   ├──aboutus_icon.png
+    │   ├──contact_icon.png
+    │   ├──gallery_icon.png
 ```
