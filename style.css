@@ -8,14 +8,14 @@ label, h1, h2{
     font-family: ThreadedFont;
 }
 
-/* Create three equal columns that floats next to each other */
+/* Create three equal columns that float next to each other */
 .column {
   float: left;
   width: 33.33%;
   height: 150px;
 }
 
-/* Clear floats after the columns */
+/* Clear float after the columns */
 .row:after {
   content: "";
   display: table;
