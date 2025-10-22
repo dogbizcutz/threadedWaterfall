@@ -21,3 +21,10 @@ label, h1, h2{
   display: table;
   clear: both;
 }
+
+.search{
+  display: inline-flex;        /* put icon + text on one line */
+  align-items: center;         /* vertical middle alignment */
+  gap: .6rem;                  /* space between icon and text */
+}
+
