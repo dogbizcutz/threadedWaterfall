@@ -3,7 +3,7 @@
     src:url(Fonts/BBHSansHegarty-Regular.ttf)
 }
 
-label, h1, span{
+label, h1, span, h2, input{
     font-family: ThreadedFont;
 }
 
@@ -33,6 +33,6 @@ body {
   grid-template-rows: auto 1fr auto;
 }
 
-header, footer, label {
+header, footer{
   min-height: 50px;
 }

@@ -40,10 +40,20 @@ This open source code was created to imitate a shopping website and to undestand
     │   ├──BBHSansHegarty-Regular.ttf
     |
     ├──Images/
-    │   ├──icon.png
-    │   ├──logo.png
-    │   ├──search_icon.png
-    │   ├──aboutus_icon.png
-    │   ├──contact_icon.png
-    │   ├──gallery_icon.png
+    ├── ├──CompanyLogos/
+    │   ├──   ├──Facebook_Logo.png
+    │   ├──   ├──Instagram_Logo.webp
+    │   ├──   ├──Pintrest_Logo.png
+    │   ├──   ├──X_Logo.svg
+    │
+    ├── ├──Clothes/
+    │
+    ├── |ThreadedIcons/
+    │   ├──   ├──icon.png
+    │   ├──   ├──logo.png
+    │   ├──   ├──search_icon.png
+    │   ├──   ├──aboutus_icon.png
+    │   ├──   ├──contact_icon.png
+    │   ├──   ├──gallery_icon.png
+
 ```
