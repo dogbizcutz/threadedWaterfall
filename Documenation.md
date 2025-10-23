@@ -29,7 +29,7 @@ This open source code was created to imitate a shopping website and to undestand
     threadedWaterfall/
     │
     ├──about.html
-    ├──collection.html
+    ├──gallery.html
     ├──contact.html
     ├──Documentation.md
     ├──index.html
