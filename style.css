@@ -3,7 +3,7 @@
     src:url(Fonts/BBHSansHegarty-Regular.ttf)
 }
 
-label, h1, span, h2, input{
+label, h1, span, h2, input, p{
     font-family: ThreadedFont;
 }
 
@@ -35,4 +35,21 @@ body {
 
 header, footer{
   min-height: 50px;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #008CBA;
+}
+
+.container:hover .overlay {
+  opacity: 1;
 }
