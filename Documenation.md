@@ -40,7 +40,6 @@ This open source code was created to imitate a shopping website and to undestand
     ├──README.md
     ├──style.css
     ├──.gitignore
-    ├──
     |
     ├──Fonts/
     │   ├──BBHSansHegarty-Regular.ttf
@@ -74,8 +73,10 @@ This open source code was created to imitate a shopping website and to undestand
     │   ├──   ├──Hoodies_Stacked.webp
     │   ├──   ├──Jeans_Stacked.avif
     │   ├──   |JeansGallery/
-    │   ├──   ├──Jeans1.webp
-    │   ├──   ├──Jeans2.jpg
-    │   ├──   ├──Jeans3.webp
+    │   ├──   ├──  ├──Jeans1.webp
+    │   ├──   ├──  ├──Jeans2.jpg
+    │   ├──   ├──  ├──Jeans3.webp
+    │   ├──   ├──  ├──Jeans4.webp
+    │   ├──   ├──  ├──Jeans5.webp
 
 ```
