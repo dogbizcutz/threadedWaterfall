@@ -8,25 +8,15 @@
     <link rel="icon" href="Images/ThreadedIcons/icon.png">
     <link rel="stylesheet" href="style.css">
     <style>
-        .gallery {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 15px;
-            /* space between images */
+        div.scroll-container {
+            background-color: #333;
+            overflow: auto;
+            white-space: nowrap;
+            padding: 10px;
         }
 
-        .gallery img {
-            width: 100%;
-            height: auto;
-            border-radius: 8px;
-            object-fit: cover;
-            transition: transform 0.3s ease;
-            cursor: pointer;
-        }
-
-        .gallery img:hover {
-            transform: scale(1.05);
-            /* zoom effect on hover */
+        div.scroll-container img {
+            padding: 10px;
         }
     </style>
 </head>
@@ -62,15 +52,16 @@
                         </div>
                 </div>
     </header>
-    <a href="product.html">
-        <div class="gallery">
-            <img src="Images/Clothes/JeansGallery/Jeans4.webp" alt="Gallery Image 1">
-            <img src="Images/Clothes/JeansGallery/Jeans5.webp" alt="Gallery Image 2">
-            <img src="Images/Clothes/JeansGallery/Jeans1.webp" alt="Gallery Image 3">
-            <img src="Images/Clothes/JeansGallery/Jeans2.jpg" alt="Gallery Image 4">
-            <img src="Images/Clothes/JeansGallery/Jeans3.webp" alt="Gallery Image 5">
-        </div>
-    </a>
+    <div class="scroll-container">
+        <img src="Images/Clothes/JeansGallery/Black/Jeans1.webp" alt="" width="500px">
+    </div>
+    <div class="scroll-container">
+        <img src="Images/Clothes/JeansGallery/Blue/Jeans1.webp" alt="" width="500px">
+        <img src="Images/Clothes/JeansGallery/Blue/Jeans2.jpg" alt="" width="500px">
+        <img src="Images/Clothes/JeansGallery/Blue/Jeans3.webp" alt="" width="500px">
+        <img src="Images/Clothes/JeansGallery/Blue/Jeans4.webp" alt="" width="500px">
+        <img src="Images/Clothes/JeansGallery/Blue/Jeans5.webp" alt="" width="500px">
+    </div>
     <footer style="background-color: #D9D9D9; min-height: 50px;">
         <div class="row">
             <div class="column">

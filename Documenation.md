@@ -51,8 +51,6 @@ This open source code was created to imitate a shopping website and to undestand
     │   ├──   ├──Pintrest_Logo.png
     │   ├──   ├──X_Logo.svg
     │
-    ├── ├──Clothes/
-    │
     ├── |ThreadedIcons/
     │   ├──   ├──aboutus_icon.png
     │   ├──   ├──contact_icon.png
@@ -61,22 +59,19 @@ This open source code was created to imitate a shopping website and to undestand
     │   ├──   ├──Search_Icon.png
     │   ├──   ├──gallery_icon.png
     │
-    ├── |CompanyLogos/
-    │   ├──   ├──Facebook_Logo.png
-    │   ├──   ├──Instagram_Logo.webp
-    │   ├──   ├──Pintrest_Logo.png
-    │   ├──   ├──X_Logo.svg
-    │
     ├── |Clothes/
-    │   ├──   ├──Black_Jeans.jpg
-    │   ├──   ├──Blue_Jeans.webp
+    │   ├──   ├──FrontHoodie.jpg
+    │   ├──   ├──FrontJeans.webp
     │   ├──   ├──Hoodies_Stacked.webp
     │   ├──   ├──Jeans_Stacked.avif
     │   ├──   |JeansGallery/
+    │   ├──   ├──  ├──Black/
+    │   ├──   ├──  ├──  ├──Jeans1.webp
+    │
+    │   ├──   ├──  ├──Blue/
     │   ├──   ├──  ├──Jeans1.webp
     │   ├──   ├──  ├──Jeans2.jpg
     │   ├──   ├──  ├──Jeans3.webp
     │   ├──   ├──  ├──Jeans4.webp
-    │   ├──   ├──  ├──Jeans5.webp
 
 ```
