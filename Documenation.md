@@ -69,9 +69,13 @@ This open source code was created to imitate a shopping website and to undestand
     │   ├──   ├──  ├──  ├──Jeans1.webp
     │
     │   ├──   ├──  ├──Blue/
-    │   ├──   ├──  ├──Jeans1.webp
-    │   ├──   ├──  ├──Jeans2.jpg
-    │   ├──   ├──  ├──Jeans3.webp
-    │   ├──   ├──  ├──Jeans4.webp
+    │   ├──   ├──  ├──  ├──Jeans1.png
+    │   ├──   ├──  ├──  ├──Jeans2.jpg
+    │   ├──   ├──  ├──  ├──Jeans3.webp
+    │   ├──   ├──  ├──  ├──Jeans4.webp
+    │   ├──   ├──  ├──  ├──Jeans5.webp
+    │   ├──   ├──  ├──  ├──Jeans6.webp
+    │   ├──   ├──  ├──  ├──Jeans7.jpg
+    │   ├──   ├──  ├──  ├──Jeans8.webp
 
 ```

@@ -46,3 +46,7 @@ img {
 p{
   font-size: 2vw;
 }
+
+.logo{
+  max-width: max-content;
+}
