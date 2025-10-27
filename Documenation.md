@@ -39,6 +39,8 @@ This open source code was created to imitate a shopping website and to undestand
     ├──index.html
     ├──README.md
     ├──style.css
+    ├──.gitignore
+    ├──
     |
     ├──Fonts/
     │   ├──BBHSansHegarty-Regular.ttf
