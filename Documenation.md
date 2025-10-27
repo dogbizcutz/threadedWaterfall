@@ -19,10 +19,14 @@ This open source code was created to imitate a shopping website and to undestand
         Low Fidelity Wireframes
         style.css
         Header
+        Most Images
+        All HTML and CSS and JS
     Kian Watt - UI/UX Designer
         Colours
+        Presentation
     Dominic Walsh - Testing
         High Fidelity Wireframes
+        Presentation
 
 ### file structure:
 ```
@@ -49,11 +53,27 @@ This open source code was created to imitate a shopping website and to undestand
     ├── ├──Clothes/
     │
     ├── |ThreadedIcons/
-    │   ├──   ├──icon.png
-    │   ├──   ├──logo.png
-    │   ├──   ├──search_icon.png
     │   ├──   ├──aboutus_icon.png
     │   ├──   ├──contact_icon.png
+    │   ├──   ├──icon.png
+    │   ├──   ├──logo.png
+    │   ├──   ├──Search_Icon.png
     │   ├──   ├──gallery_icon.png
+    │
+    ├── |CompanyLogos/
+    │   ├──   ├──Facebook_Logo.png
+    │   ├──   ├──Instagram_Logo.webp
+    │   ├──   ├──Pintrest_Logo.png
+    │   ├──   ├──X_Logo.svg
+    │
+    ├── |Clothes/
+    │   ├──   ├──Black_Jeans.jpg
+    │   ├──   ├──Blue_Jeans.webp
+    │   ├──   ├──Hoodies_Stacked.webp
+    │   ├──   ├──Jeans_Stacked.avif
+    │   ├──   |JeansGallery/
+    │   ├──   ├──Jeans1.webp
+    │   ├──   ├──Jeans2.jpg
+    │   ├──   ├──Jeans3.webp
 
 ```
